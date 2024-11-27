@@ -1,0 +1,74 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="webbanhang.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+        integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet">
+    <link href="styles/master.css" rel="stylesheet" type="text/css" />
+    <title></title>
+    <style>
+        .header_button * {
+    font-size: 26px;
+    font-weight: bold;
+    padding: 4px;
+    border: none;
+    color: #FFFFFF;
+    background-color: transparent;
+    margin-right: 20px;
+    cursor: pointer;}
+
+.header_button *:hover {
+    color: rgb(49, 156, 80);
+    transition: .4s ease-in-out;
+}
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+       <header>
+        <div class="header_logo">
+            <img src="img/logo.png" />
+        </div>
+        <div class="header_navbar">
+            <ul>
+                <li><a href="trangchu.aspx">Trang Chủ</a></li>
+                <li><a href="home.aspx">Home</a></li>
+                <li><a href="cafe.aspx">Cà Phê</a></li>
+                <li><a href="tra.aspx">Trà</a></li>
+                <li><a href="giohang.aspx">Giỏ Hàng</a></li>
+            </ul>
+        </div>
+        <div class="header_button">
+            <asp:Button ID="Button1" runat="server" Text="Đăng Nhập" OnClick="Button1_Click1" />
+            <asp:Button ID="Button2" runat="server" Text="" OnClick="Button2_Click" />
+        </div>
+    </header>
+    <!------header ----------->
+     <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+  </asp:ContentPlaceHolder>
+    <!-- section -->
+    <footer>
+        <div>
+            <div class="footer_icon">
+                <i class="fa-brands fa-facebook"></i>
+                <i class="fa-brands fa-square-instagram"></i>
+                <i class="fa-brands fa-youtube"></i>
+                <i class="fa-brands fa-twitter"></i>
+            </div>
+            <div class="footer_content">
+
+            </div>
+        </div>
+    </footer>
+          
+        
+    </form>
+</body>
+</html>

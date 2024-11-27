@@ -1,0 +1,40 @@
+﻿section {
+    height: 761px;
+    overflow: hidden;
+}
+
+    section h2 {
+        font-size: 36px;
+        font-weight: 700;
+        margin-top: 20px;
+        margin-bottom: 40px;
+        margin-left: 40px;
+    }
+
+.section_home {
+    height: 100%;
+    gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    overflow: auto;
+    overflow-y: scroll;
+    -ms-overflow-style: none;
+}
+
+   .section_home::-webkit-scrollbar {
+        width: 0 !important;
+        display: none;
+    }
+
+    .section_home div {
+        margin-top: 20px;
+        cursor: pointer;
+        padding: 20px;
+        transition: .4s ease-out;
+    }
+
+        .section_home div:hover {
+            transform: scale(1.1);
+        }
+

@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|c:\\users\\admin\\desktop\\workspace\\c#\\nhom9_webbancaffee\\webbanhang\\webbanhang\\chitiet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\chitiet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\chitiet.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\chitiet.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\dangnhap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\dangnhap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\dangnhap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\dangnhap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\admin\\themhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\admin\\themhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\admin\\danhsachdonhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\admin\\danhsachdonhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\admin\\danhsachhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\admin\\danhsachhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\giohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\giohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\dangki.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\dangki.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\cafe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\cafe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\tra.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\tra.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\tra.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\tra.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\cafe.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852E1D34-7470-4D63-A0C3-190F75974BBF}|webbanhang\\webbanhang.csproj|solutionrelative:webbanhang\\cafe.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 294,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "themhang.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\admin\\themhang.aspx.cs",
+              "RelativeDocumentMoniker": "webbanhang\\admin\\themhang.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\admin\\themhang.aspx.cs",
+              "RelativeToolTip": "webbanhang\\admin\\themhang.aspx.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T00:02:53.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dangnhap.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\dangnhap.aspx",
+              "RelativeDocumentMoniker": "webbanhang\\dangnhap.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\dangnhap.aspx",
+              "RelativeToolTip": "webbanhang\\dangnhap.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-02T14:00:56.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dangnhap.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\dangnhap.aspx.cs",
+              "RelativeDocumentMoniker": "webbanhang\\dangnhap.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\dangnhap.aspx.cs",
+              "RelativeToolTip": "webbanhang\\dangnhap.aspx.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:00:55.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chitiet.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\Chitiet.aspx.cs",
+              "RelativeDocumentMoniker": "webbanhang\\Chitiet.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\Chitiet.aspx.cs",
+              "RelativeToolTip": "webbanhang\\Chitiet.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:31:21.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chitiet.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\Chitiet.aspx",
+              "RelativeDocumentMoniker": "webbanhang\\Chitiet.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\Chitiet.aspx",
+              "RelativeToolTip": "webbanhang\\Chitiet.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-02T12:31:18.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "danhsachdonhang.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\admin\\danhsachdonhang.aspx",
+              "RelativeDocumentMoniker": "webbanhang\\admin\\danhsachdonhang.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\admin\\danhsachdonhang.aspx",
+              "RelativeToolTip": "webbanhang\\admin\\danhsachdonhang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T00:02:48.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "danhsachhang.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\admin\\danhsachhang.aspx",
+              "RelativeDocumentMoniker": "webbanhang\\admin\\danhsachhang.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\admin\\danhsachhang.aspx",
+              "RelativeToolTip": "webbanhang\\admin\\danhsachhang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T00:02:47.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "giohang.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\giohang.aspx.cs",
+              "RelativeDocumentMoniker": "webbanhang\\giohang.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\giohang.aspx.cs",
+              "RelativeToolTip": "webbanhang\\giohang.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T00:02:23.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "giohang.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\giohang.aspx",
+              "RelativeDocumentMoniker": "webbanhang\\giohang.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\giohang.aspx",
+              "RelativeToolTip": "webbanhang\\giohang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T00:02:08.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\Global.asax.cs",
+              "RelativeDocumentMoniker": "webbanhang\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\Global.asax.cs",
+              "RelativeToolTip": "webbanhang\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T00:02:05.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "webbanhang\\Site1.Master.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\Site1.Master.cs",
+              "RelativeToolTip": "webbanhang\\Site1.Master.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:43:49.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dangki.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\dangki.aspx.cs",
+              "RelativeDocumentMoniker": "webbanhang\\dangki.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\dangki.aspx.cs",
+              "RelativeToolTip": "webbanhang\\dangki.aspx.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:30:22.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\home.aspx.cs",
+              "RelativeDocumentMoniker": "webbanhang\\home.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\home.aspx.cs",
+              "RelativeToolTip": "webbanhang\\home.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:31:30.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ketnoi.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\ketnoi.cs",
+              "RelativeDocumentMoniker": "webbanhang\\ketnoi.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\ketnoi.cs",
+              "RelativeToolTip": "webbanhang\\ketnoi.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:08:54.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\Site1.Master",
+              "RelativeDocumentMoniker": "webbanhang\\Site1.Master",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\Site1.Master",
+              "RelativeToolTip": "webbanhang\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-02T12:38:10.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "home.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\home.aspx",
+              "RelativeDocumentMoniker": "webbanhang\\home.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\home.aspx",
+              "RelativeToolTip": "webbanhang\\home.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-02T13:28:11.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "tra.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\tra.aspx.cs",
+              "RelativeDocumentMoniker": "webbanhang\\tra.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\tra.aspx.cs",
+              "RelativeToolTip": "webbanhang\\tra.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:45:35.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "cafe.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\cafe.aspx",
+              "RelativeDocumentMoniker": "webbanhang\\cafe.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\cafe.aspx",
+              "RelativeToolTip": "webbanhang\\cafe.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-02T12:31:17.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "tra.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\tra.aspx",
+              "RelativeDocumentMoniker": "webbanhang\\tra.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\tra.aspx",
+              "RelativeToolTip": "webbanhang\\tra.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-02T12:31:43.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "trangchu.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\trangchu.aspx",
+              "RelativeDocumentMoniker": "webbanhang\\trangchu.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\trangchu.aspx",
+              "RelativeToolTip": "webbanhang\\trangchu.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-02T13:28:15.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "cafe.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\cafe.aspx.cs",
+              "RelativeDocumentMoniker": "webbanhang\\cafe.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\workspace\\c#\\Nhom9_webbancaffee\\webbanhang\\webbanhang\\cafe.aspx.cs",
+              "RelativeToolTip": "webbanhang\\cafe.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:31:52.096Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 106,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

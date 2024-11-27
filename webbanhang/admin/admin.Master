@@ -1,0 +1,42 @@
+﻿
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin.master.cs" Inherits="webbanhang.admin.admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../styles/admin.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="body">
+            <div class="admin">
+                <div class="logo">
+                    <img src="../img/logo.png" class="logo_img"/>
+                </div>
+                <div class="taikhoan">
+                    <asp:Label ID="Label1" runat="server" Text="Admin"></asp:Label>
+                    <br />
+                    <asp:Button ID="Button2" runat="server" Text="Đăng Xuất" OnClick="Button2_Click" />
+                </div>
+                <ul class="nav">
+
+                    <li><a href="danhsachhang.aspx">danh sach hang</a></li>
+                    <li><a href="danhsachdonhang.aspx">danh sach don hang</a></li>
+                    <li><a href="danhsachtaikhoan.aspx">danh sach tai khoan</a></li>
+                    <li><a href="themhang.aspx">cap nhap them don hang</a></li>
+                </ul>
+            </div>
+            <div class="data">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,66 @@
+﻿* {
+    margin: 0px 0 0 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.body {
+    display: flex;
+    align-items: center;
+}
+
+.admin {
+    color: white;
+    width: 20%;
+    background-color: #343A40;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo_img {
+    width: 80%;
+}
+
+.taikhoan {
+    font-size: 26px;
+    cursor: pointer;
+}
+
+    .taikhoan:hover {
+        font-weight: 700;
+        color: rgb(49, 156, 80);
+    }
+
+.nav {
+    list-style: none;
+    text-decoration: none;
+    width: 100%;
+}
+
+    .nav li {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+        .nav li a {
+            margin-top: 10px;
+            width: 100%;
+            padding: 12px;
+            transition: 1s linear;
+        }
+
+            .nav li a:hover {
+                background-color: rgb(71, 161, 86);
+            }
+.data{
+    width :100%;
+    height : 100vh;
+}
